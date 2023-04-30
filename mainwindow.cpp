@@ -4,7 +4,7 @@
 
 
 /*!
- * \brief A class MainWindow.
+ * \brief A class MainWindow. ff
  * \param parent
  */
 MainWindow::MainWindow(QWidget *parent)
